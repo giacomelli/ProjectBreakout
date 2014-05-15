@@ -39,18 +39,18 @@ How to run?
 ===
 The game is for Windows only, so you will need an updated version of DirectX installed on your computer.
 
-Run the  [PBGame.exe](src/Project Breaktout/PBGame.Exe), select a level file inside the [levels](src/Project Breaktout/Levels) folder.
+Run the  [PBGame.exe](src/Project Breakout/PBGame.Exe), select a level file inside the [levels](src/Project Breakout/Levels) folder.
 
 Enjoy!
 
 
 How to create a level?
 ===
-Run the [PBeditor.exe](src/Project Breaktout/PBGame.Exe), you will see a screen like below:
+Run the [PBeditor.exe](src/Project Breakout/PBGame.Exe), you will see a screen like below:
 
 Now you can select and put your blocks any where in the screen. To see how will it run, select "Simulate" menu.
 
-To save your level, select the "Save" menu and save the .xml file inside de [levels](src/Project Breaktout/Levels)  folder.
+To save your level, select the "Save" menu and save the .xml file inside de [levels](src/Project Breakout/Levels)  folder.
 
  
 --------
