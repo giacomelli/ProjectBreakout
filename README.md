@@ -1,7 +1,7 @@
 Project Breakout
 ===============
 ![](docs/screenshots/20140515_01.jpg)
-
+<br>
 An unfinished breakout game made using C# and MDX (Managed DirectX)
 
 --------
