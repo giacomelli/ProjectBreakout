@@ -8,7 +8,7 @@ An unfinished breakout game made using C# and MDX (Managed DirectX)
 
 Introduction
 ===
-In 2005 I (Hal), Wanderson Pereira (Kid Graphics) and Giusepe Casagrande (Guardian Skarabrae) started the development of a breakout game called "Project Breakout".
+In 2005 I (Hal), Wanderson Pereira (Kid Graphics) and [Giusepe Casagrande (Guardian Skarabrae)](https://github.com/giusepe) started the development of a breakout game called "Project Breakout".
 The game was programmed using C# and MDX (Managed Direct X).
 
 ![image](docs/screenshots/20140515_03.jpg)
